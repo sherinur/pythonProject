@@ -3,7 +3,7 @@ class Pet():
         """ constructor """
         self.__name = name
         self.__animal_type = animal_type
-        self.__age = age
+        self.__age = int(age)
 
     """ getter method """
     def get_name(self):
