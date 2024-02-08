@@ -3,8 +3,13 @@ Mark Jones 39119 IT Programmer
 Joy Rogers 81774 Manufacturing Engineer
 Aqniet Qilybek 11111 IT Manager
 Sheri Nurislam 22222 IT Programmer
-Ivan Nichey 77001 EMP Cadastrian
+Bogdan Lisevskiy 77001 CB Black Hat
 Adai Erkinov 88002 IT Designer
 Sheri Myrzashakh 00001 CB Ethical Hacker
 Ernar Bukembay 66002 IT Web Developer
 Rakhat Aliev 43001 Accounting Manager
+Lev Tolstoy 42001 Accounting President
+Ellis Markinson 88003 Manufacturing Administrator
+Scarlett Johanson 99002 IT Project Manager
+Sheri Sholpan 00003 IT HR Manager
+
